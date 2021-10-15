@@ -1,0 +1,27 @@
+body {
+  text-align: center;
+}
+
+img {
+  border: 1px solid black;
+  border-radius: 10px;
+}
+
+.navigation {
+  margin-top: 50px;
+}
+
+.mail {
+  text-decoration: none;
+  color: sienna;
+}
+
+.nav-link {
+  background-color: rgb(243, 196, 134);
+  font-weight: bold;
+  color: white;
+  border: 1px solid black;
+  border-radius: 5px;
+  padding: 20px;
+  text-decoration: none;
+}
